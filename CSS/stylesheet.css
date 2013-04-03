@@ -27,12 +27,16 @@ h1 {
 }
 
 body {
+  background-color:#339933;
+}
+
+/*body {
   background-image: url("./images/golf.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   height: 100%;
 }
-
+*/
 ul {
   list-style-type: none;
 }
