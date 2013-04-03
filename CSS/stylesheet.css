@@ -1,7 +1,7 @@
 
 h1 {
   text-align: center;
-  margin: 120px 0px 10px 15px;
+  margin: 120px 0px 10px 40px;
   font-size: 45px;  
   font-family: 'Arizonia', cursive;
   color: black;
@@ -12,10 +12,6 @@ h1 {
   margin-left: 0px;
 }
 
-.span5 {
-  margin-top: 15px;
-}
-
 #fork-me {
   position: absolute;
 }
@@ -24,7 +20,7 @@ h1 {
   font-size: 16px;
   font-family: 'Nunito', sans-serif;
   color: black;
-  margin-left: 15px;
+  margin-left: 40px;
 }
 
 
@@ -37,10 +33,12 @@ body {
 
 ul {
   list-style-type: none;
+  margin-left: 40px;
 }
 
 ul li {
   float: left;
+  margin-left: 2px;
 }
 
 .profile {
