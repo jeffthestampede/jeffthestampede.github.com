@@ -1,7 +1,48 @@
-h5 {
-  background-color: #f0f;
-  width: 200px;
-  margin: auto;
+
+h1 {
   text-align: center;
-  padding-bottom: 20px
+  margin: 120px 0px 10px 15px;
+  font-size: 45px;  
+  font-family: 'Arizonia', cursive;
+  color: black;
+  vertical-align: top
+}
+
+.container {
+  margin-left: 0px;
+}
+
+.span5 {
+  margin-top: 15px;
+}
+
+#fork-me {
+  position: absolute;
+}
+
+.bio {
+  font-size: 16px;
+  color: black;
+  margin-left: 15px;
+}
+
+body {
+  background-image: url("../Images/golf.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  float: left;
+}
+
+.profile {
+  border: 8px solid white;
+  border-radius: 10px;
+  margin: 50px 0px 0px 50px;
 }
