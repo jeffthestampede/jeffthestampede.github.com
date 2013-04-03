@@ -27,7 +27,7 @@ h1 {
 }
 
 body {
-  background-image: url("../images/golf.jpg");
+  background-image: url("./images/golf.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   height: 100%;
