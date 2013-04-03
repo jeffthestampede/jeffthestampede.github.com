@@ -30,7 +30,7 @@ h1 {
 
 body {
   background-image: url("https://github.com/jeffthestampede/jeffthestampede.github.com/blob/master/images/golf.jpg?raw=true");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
 }
@@ -49,4 +49,6 @@ ul li {
   border: 8px solid white;
   border-radius: 10px;
   margin: 50px 0px 0px 50px;
+  width: 350px;
+  height auto;
 }
