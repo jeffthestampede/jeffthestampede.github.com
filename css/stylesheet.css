@@ -276,11 +276,8 @@ a:hover {
 /* Section 1 */
 
 #section1 {
-  -webkit-background-size: 100% auto;
-  -moz-background-size: 100% auto;
-  -o-background-size: 100% auto;
-  background-size: 100% auto;
-  background-repeat: no-repeat;
+  background-image:url(../images/grey_wash_wall.png);
+  background-repeat:repeat;
 }
 
 #section1 .intro {
@@ -583,7 +580,8 @@ a:hover {
 @media screen and (min-width: 481px) {
 
   #section1 {
-    background-image:url(../img/intro-bg.jpg);
+    background-image:url(../images/grey_wash_wall.png);
+    background-repeat:repeat;
   }
 
 }
