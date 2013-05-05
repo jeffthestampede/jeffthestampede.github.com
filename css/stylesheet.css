@@ -335,38 +335,38 @@ a:hover {
 }
 
 
-/* Section 5 */
+/* Section 3 */
 
-#section5 {
+#section3 {
   background-image:url(../images/textured_paper.png);
   background-repeat:repeat;
   color: black;
 }
 
-#section5 h4.intro {
+#section3 h4.intro {
     height: 35px;
     margin-bottom: 5px;
 }
 
-#section5 .content {
+#section3 .content {
   position: relative;
 }
 
-#section5 .content .alt {
+#section3 .content .alt {
   margin-top: 20px;
 }
 
-#section5 .content .alt h4 {
+#section3 .content .alt h4 {
   line-height: 24px;
   margin: 0;
   padding-right: 20px;
 }
 
-#section5 .content .alt h4 {
+#section3 .content .alt h4 {
   display: inline-block;
 }
 
-#section5 .content .alt h5 {
+#section3 .content .alt h5 {
   display: inline;
     line-height: 20px;
     margin: 0;
@@ -374,13 +374,13 @@ a:hover {
 }
 
 
-#section5 #footer {
+#section3 #footer {
   position: absolute;
   margin-top: 440px;
 }
 
 
-#section5 #footer p {
+#section3 #footer p {
   font-size: 14px; font-size: 1.4rem;
   text-align: center;
 }
@@ -491,7 +491,7 @@ a:hover {
     line-height: 22px;
   }
 
-  #section5 .content .span4 {
+  #section3 .content .span4 {
     padding-right: 0px;
   }
 
@@ -510,10 +510,6 @@ a:hover {
 
   #section2 .content .expand {
     width: 48.6188%;
-  }
-
-  #section4 .content .expand {
-    width: 100%;
   }
 
 }
@@ -557,7 +553,7 @@ a:hover {
     width: 55%;
   }
 
-  #section5 .span3 {
+  #section3 .span3 {
     margin-top: 30px;
   }
 
