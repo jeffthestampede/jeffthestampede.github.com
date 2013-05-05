@@ -5,12 +5,11 @@ html {
 }
 
 body {
-  background: url(../img/bg.jpg) repeat 0 0 #F5F5F5;
-    color: #2d2d2d;
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 15px; font-size: 1.5rem;
-    font-weight: 300;
-    line-height: 22px;
+  color: #2d2d2d;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px; font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 22px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -276,7 +275,7 @@ a:hover {
 /* Section 1 */
 
 #section1 {
-  background-image:url(../images/grey_wash_wall.png);
+  background-image:url(../images/textured_paper.png);
   background-repeat:repeat;
 }
 
@@ -312,7 +311,7 @@ a:hover {
 /* Section 2 */
 
 #section2{
-  background-image:url(../images/noisy_grid.png);
+  background-image:url(../images/textured_paper.png);
   background-repeat:repeat;
 }
 
