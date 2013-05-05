@@ -271,6 +271,7 @@ a:hover {
   float: left;
 }
 
+
 /* Section 1 */
 
 #section1 {
@@ -339,6 +340,7 @@ a:hover {
   background-image:url(../images/textured_paper.png);
   background-repeat:repeat;
   color: black;
+  padding-bottom: 200px;
 }
 
 #section3 h4.intro {
@@ -374,7 +376,7 @@ a:hover {
 
 #section3 #footer {
   position: absolute;
-  margin-top: 440px;
+  margin-top: 470px;
 }
 
 
