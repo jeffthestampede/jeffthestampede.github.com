@@ -8,8 +8,8 @@ $(document).ready(function ($) {
 
   // Waypoints Scrolling
 
-  var links = $('.navigation').find('li');
-  var button = $('.intro button');
+    var links = $('.navigation').find('li');
+    var button = $('.intro button');
     var section = $('section');
     var mywindow = $(window);
     var htmlbody = $('html,body');
@@ -29,7 +29,7 @@ $(document).ready(function ($) {
     });
 
     mywindow.scroll(function () {
-        if (mywindow.scrollTop() == 0) {
+        if (mywindow.scrollTop() === 0) {
             $('.navigation li[data-section="1"]').addClass('active');
             $('.navigation li[data-section="2"]').removeClass('active');
         }

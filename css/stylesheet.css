@@ -6,14 +6,13 @@ html {
 
 body {
   color: #2d2d2d;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 15px; font-size: 1.5rem;
   font-weight: 300;
   line-height: 22px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "brandon-grotesque", sans-serif;
   font-weight: 300;
   font-style: normal;
 }
@@ -244,7 +243,7 @@ a:hover {
   border: medium none;
     cursor: pointer;
     display: inline-block;
-    font-family: "brandon-grotesque",sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 14px; font-size: 1.4rem;
     font-weight: 300;
     line-height: 20px;
@@ -290,7 +289,7 @@ a:hover {
     letter-spacing: -2px;
     line-height: 85px;
     margin-left: -5px;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 #section1 .intro h3 {
