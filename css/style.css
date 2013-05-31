@@ -1,0 +1,111 @@
+@font-face {
+  font-family: brandon-grotesque; src: url('../fonts/Brandon_bld.otf');
+}
+
+@font-face {
+  font-family: proxima-nova; src: url('../fonts/ProximaNovaCond-Light.otf');
+}
+
+/*Nav*/
+
+
+/*Header Page*/
+
+.menu {
+  font-family: proxima-nova;
+  padding: 5px 0 0 0;
+  font-size: 20px;
+  margin-top: -40px;
+}
+
+.header .name {
+  font-family: brandon-grotesque;
+  font-size: 60px;
+}
+
+.menu a {
+  display: inline-block;
+  padding: 0 9px;
+  text-decoration: none;
+  color: black;
+}
+
+.header {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 400px;
+}
+
+/*Info Page*/
+
+.info {
+  font-family: brandon-grotesque;
+  margin-top: 200px;
+  margin-bottom: 400px;
+}
+
+.prox {
+  font-family: proxima-nova;
+}
+
+.picture {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.tools {
+  font-family: proxima-nova;
+}
+
+/*Work Page*/
+
+.work {
+  font-family: brandon-grotesque;
+  margin-top: 200px;
+  margin-bottom: 400px;
+}
+
+/*Contact Page*/
+
+.contact {
+  margin-top: 200px;
+  margin-bottom: 400px;
+}
+
+.contact a{
+  text-decoration: none;
+  color: black;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.slidesjs-navigation {
+  float:left;
+  margin-top: 6px;
+}
+.slidesjs-pagination {
+  margin-top: 6px;
+  list-style:none;
+  padding: 0 0 0 -40px;
+}
+
+.slidesjs-pagination li a.active, .slidesjs-pagination li a:hover.active {
+  background-position: 0 -13px;
+}
+
+.slidesjs-pagination li a {
+  display: block;
+  width: 13px;
+  height: 0;
+  padding-top: 13px;
+  background-image: url(../img/pagination.png);
+  background-position: 0 0;
+  float: left;
+  overflow: hidden;
+}
+
+#footer {
+  font-family: brandon-grotesque;
+  text-align: center;
+}
+
