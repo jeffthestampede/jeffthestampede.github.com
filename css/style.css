@@ -6,8 +6,6 @@
   font-family: proxima-nova; src: url('../fonts/ProximaNovaCond-Light.otf');
 }
 
-/*Nav*/
-
 
 /*Header Page*/
 
@@ -46,6 +44,7 @@
 
 .prox {
   font-family: proxima-nova;
+  font-size: 20px;
 }
 
 .picture {
@@ -55,6 +54,7 @@
 
 .tools {
   font-family: proxima-nova;
+  font-size: 20px;
 }
 
 /*Work Page*/
@@ -68,7 +68,7 @@
 /*Contact Page*/
 
 .contact {
-  margin-top: 200px;
+  margin-top: 220px;
   margin-bottom: 400px;
 }
 
