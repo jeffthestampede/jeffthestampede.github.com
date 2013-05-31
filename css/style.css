@@ -6,6 +6,10 @@
   font-family: proxima-nova; src: url('../fonts/ProximaNovaCond-Light.otf');
 }
 
+h1 {
+  font-size:40px;
+}
+
 
 /*Header Page*/
 
@@ -18,7 +22,7 @@
 
 .header .name {
   font-family: brandon-grotesque;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 .menu a {
