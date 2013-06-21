@@ -13,22 +13,8 @@ $(document).ready(function() {
 
 });
 
-function scrollToAnchor(aid){
-    var aTag = $("a[name='"+ aid +"']");
-    $('html,body').animate({scrollTop: aTag.offset().top},'slow');
-}
-
-$("#info").click(function() {
-   scrollToAnchor('info');
+$(document).ready(function() {
+  $('.menu').localScroll();
 });
-
-$("#work").click(function() {
-   scrollToAnchor('work');
-});
-
-$("#contact").click(function() {
-   scrollToAnchor('contact');
-});
-
 
 
