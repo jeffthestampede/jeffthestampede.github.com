@@ -108,6 +108,10 @@ h1 {
   overflow: hidden;
 }
 
+.slides {
+  height: 657px;
+}
+
 #footer {
   font-family: brandon-grotesque;
   text-align: center;
